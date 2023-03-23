@@ -28,7 +28,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project">my first microverse project</a>
+# 📖 hello microverse <a name="about-project">my first microverse project</a>
 
 hello microverse is my first microverse project as a microverse student
 
@@ -56,8 +56,6 @@ i built this web display with html and css styling
 
 ### Key Features <a name="key-features">key features</a>
 
-> Describe between 1-3 key features of the application.
-
 -this web display has one feature which is displaying the header that is styled
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -65,8 +63,6 @@ i built this web display with html and css styling
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 a new developer can use this projects to learn html and css
 
@@ -98,27 +94,17 @@ vscode
 
 ## 👥 Authors <a name="authors"> gisa chris</a>
 
-> Mention all of the collaborators of this project.
+👤 **Gisa Chris**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/gisachris
+- Twitter: https://twitter.com/_GisaChris
+- LinkedIn: https://www.linkedin.com/in/gisa-chris-907948267/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - adding a second header
 
@@ -138,17 +124,13 @@ Feel free to check the issues page
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project consider viewing my other profiles and sending job inquiries. thank you
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank all my fellow coding partners 
 
